@@ -13,7 +13,7 @@ Um projeto simples de calculadora web desenvolvido em HTML, CSS e JavaScript.
 1. Abra o arquivo index.html no seu navegador.
 2. Utilize os botões da calculadora para realizar cálculos.
 
-Limitações
+## Limitações
 A calculadora suporta até 15 dígitos para evitar números muito grandes.
 Contribuição
 
